@@ -1,1 +1,2 @@
 Iniciando primeiras seções de estudo do bootcamp-github
+Alteração feita após o git pull (adicionado readme)
